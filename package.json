@@ -2,7 +2,11 @@
   "name": "app-framework",
   "description": "iOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source!",
   "repository": "https://github.com/scriptPilot/app-framework.git",
+<<<<<<< HEAD
   "version": "1.2.68",
+=======
+  "version": "1.2.70",
+>>>>>>> master
   "license": "MIT",
   "scripts": {
     "android": "node scripts/android",
