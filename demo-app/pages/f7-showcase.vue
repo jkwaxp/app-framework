@@ -1,8 +1,6 @@
 <template>
   <f7-page>
-
     <f7-navbar title="Framework7-Vue Showcase" back-link="Back" sliding></f7-navbar>
-
     <f7-list>
       <f7-list-item title="Content Block" link="f7/content-block/"></f7-list-item>
       <f7-list-item title="Cards" link="f7/cards/"></f7-list-item>
@@ -40,10 +38,5 @@
       <f7-list-item title="Nested Routes" link="f7/nested-routes/"></f7-list-item>
       <f7-list-item title="Data Binding" link="f7/data-binding/"></f7-list-item>
     </f7-list>
-
   </f7-page>
 </template>
-
-<script>
-  module.exports = {}
-</script>
